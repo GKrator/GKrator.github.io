@@ -1,5 +1,5 @@
 # Site settings
-title: Another Blog
+title: 苏会发的博客
 url: "http://GKrator.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/GKrator.github.io" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
@@ -7,12 +7,12 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+email: iamxifan@163.com
+author: 苏会发
+avatar: "/img/head.jpg"
+profile: 成长在于记录！！！
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  GKrator
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
